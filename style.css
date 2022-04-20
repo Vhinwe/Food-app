@@ -5,11 +5,11 @@ body{
 .bodyframe{
     height: 600px;
     width: 320px;
-    border: 4px solid #d9dcd9;
+    border: 9px solid #36a13f;;
     margin: 0px auto;
     margin-top: 2%;
     border-radius: 40px;
-    box-shadow: 1px 1px grey;
+    box-shadow: 1px 1px #36a13f;
 }
 .menu{
   margin-top: 27px;
